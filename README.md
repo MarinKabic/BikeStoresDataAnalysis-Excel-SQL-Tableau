@@ -3,6 +3,8 @@
 In this Project we will analyze Bike stores sales data in Excel, SQL Server and Tableau.
 Data used in this project is from: https://www.sqlservertutorial.net/sql-server-sample-database/
 
+Link to my Tableau dashboard on this project: https://public.tableau.com/app/profile/marin.kabi./viz/BikeStoresDashboard_16843318002620/Dashboard1
+
 ## Deliverables:
 The purpose of this project is to show the condition of sales activities within the company and give insights into the various trends happening in the sales volume over the 2016 to 2018 period
 
@@ -38,6 +40,10 @@ The dashboard consists of 4 sections:
 2.	Summary: Revenue, Total units, count of units, count of customers
 3.	Filter per state
 4.	All the charts as mentioned above in „Excel > Charts created“
+
 The data can be filtered PER YEAR and PER STATE,
+
 When filtering all the sections of the dashboard change accordingly.
+
+Link to my Tableau dashboard on this project: https://public.tableau.com/app/profile/marin.kabi./viz/BikeStoresDashboard_16843318002620/Dashboard1
 
