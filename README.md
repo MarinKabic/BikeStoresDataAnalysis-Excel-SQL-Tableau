@@ -1,7 +1,7 @@
 # BikeStoresDataAnalysis
 
 In this Project we will analyze Bike stores sales data in Excel, SQL Server and Tableau.
-The data is from: ______
+Data used in this project is from: https://www.sqlservertutorial.net/sql-server-sample-database/
 
 ## Deliverables:
 The purpose of this project is to show the condition of sales activities within the company and give insights into the various trends happening in the sales volume over the 2016 to 2018 period
