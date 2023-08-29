@@ -20,7 +20,7 @@ The purpose of this project is to show the condition of sales activities within 
 -	Excel – creating interactive dashboards
 -	Tableau – creating interactive dashboards
 
-### SQL Server 
+### MS SQL Server 
 - mostly JOINS, aggregate functions
 
 ### Excel:
