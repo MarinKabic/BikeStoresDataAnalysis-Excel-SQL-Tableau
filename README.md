@@ -1,6 +1,6 @@
 # BikeStoresDataAnalysis
 
-In this Project we will analyze Bike stores sales data in Excel, SQL Server and Tableau.
+In this Project we will analyze Bike stores sales data in Excel, MS SQL Server and Tableau.
 Data used in this project is from: https://www.sqlservertutorial.net/sql-server-sample-database/
 
 Link to my Tableau dashboard on this project: https://public.tableau.com/app/profile/marin.kabi./viz/BikeStoresDashboard_16843318002620/Dashboard1
